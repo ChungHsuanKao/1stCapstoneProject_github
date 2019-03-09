@@ -30,8 +30,9 @@ testing data and ⅔ of dataset is training data.
 * imdb_gross.json: json file includes movie's gross from IMDB website
 * imdb_titleyear.json: json file includes movie's title year from IMDB website
 
-# module.py
-The file includes functions for EDA analysis (permutation, bootstrapping, simulation, statistical analysis for p-value).
+# Files
+* **module.py**: The file includes functions for EDA analysis (permutation, bootstrapping, simulation, statistical analysis for p-value)
+* **Presentation.pptx**: Slides for future presentation
 
 # iPython notebooks
 * **MovieRevenuePrediction_Data collection and data wrangling.ipynb**: The file shows how I transform the raw data into a data that I can perform prediction
